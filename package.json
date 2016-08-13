@@ -1,0 +1,23 @@
+{
+  "name": "slackzone",
+  "version": "0.0.1",
+  "description": "Oauth with Slack",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hunvreus/slackzone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hunvreus/slackzone/issues"
+  },
+  "homepage": "https://github.com/hunvreus/slackzone#readme"
+}
